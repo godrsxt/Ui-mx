@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background: black;
+  font-family: sans-serif;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+canvas {
+  width: 100vw;
+  height: 100vh;
+  display: block;
+}
